@@ -20,7 +20,7 @@
 ;; Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
 ;; Boston, MA 02110-1301, USA.
 
-(input-method ne rom-translit)
+(input-method ne roman-translit)
 
 (description "Nepali input method by roman transliteration.")
 
