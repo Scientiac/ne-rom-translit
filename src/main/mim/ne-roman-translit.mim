@@ -1,4 +1,4 @@
-;; ne-rom-translit.mim -- Nepali input method with roman transliteration
+;; ne-roman-translit.mim -- Nepali input method with roman transliteration
 ;; keymapping
 ;; Creative commons (CC) 2021 Scientiac
 
@@ -24,7 +24,7 @@
 
 (description "Nepali input method by roman transliteration.")
 
-(title "ने translit")
+(title "ne-ने translit")
 
 (map
  (starter
