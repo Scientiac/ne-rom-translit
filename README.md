@@ -15,7 +15,7 @@ This layout is still in early stages of development. Use Issue Tracker for this 
 - copy `ne-roman-translit.mim` to `/usr/share/m17n` (installation dir of m17n) type `sudo cp ne-roman-translit.mim /usr/share/m17n`
 - copy `icons/ne-roman-translit.png` to `/usr/share/m17n/icons` type `sudo cp icons/ne-roman-translit.png /usr/share/m17n/icons`
 - restart ibus engine
-- new layout rom-translit should be available under Nepali Language in IBus preferences
+- new layout roman-translit should be available under Nepali Language in IBus preferences
 
 ## installation instructions for Arch 
 - install packages `ibus` and `ibus-m17n` type `sudo pacman -S ibus ibus-m17n`
@@ -24,4 +24,4 @@ This layout is still in early stages of development. Use Issue Tracker for this 
 - copy `ne-roman-translit.mim` to `/usr/share/m17n` (installation dir of m17n) type `sudo cp ne-roman-translit.mim /usr/share/m17n`
 - copy `icons/ne-roman-translit.png` to `/usr/share/m17n/icons` type `sudo cp icons/ne-roman-translit.png /usr/share/m17n/icons`
 - restart ibus engine
-- new layout rom-translit should be available under Nepali Language in IBus preferences
+- new layout roman-translit should be available under Nepali Language in IBus preferences
