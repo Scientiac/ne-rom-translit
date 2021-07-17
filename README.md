@@ -1,4 +1,4 @@
-ne-rom-translit
+ne-roman-translit
 ===========
 
 m17n input method for nepali similar to  Google transliteration and unicodenepali.com
