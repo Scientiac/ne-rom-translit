@@ -5,6 +5,8 @@ m17n input method for nepali similar to  Google transliteration and unicodenepal
 
 Full documentation [here](https://nepalitankan.blogspot.com/2013/11/ne-rom-translit.html?m=1)
 
+I suggest you all to use the original software instead of this. This is just me testing different layouts by changing small things in the source code.
+
 ## Feedback and reporting issues 
 This layout is still in early stages of development. Use Issue Tracker for this project to report issues and send suggestions. 
  
