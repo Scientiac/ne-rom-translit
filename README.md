@@ -3,7 +3,7 @@ ne-roman-translit
 
 m17n input method for nepali similar to  Google transliteration and unicodenepali.com
 
-Full documentation [here](https://thescientiac.blogspot.com/2021/07/ne-roman-translit-roman-transliterated.html)
+Full documentation [here](https://nepalitankan.blogspot.com/2013/11/ne-rom-translit.html?m=1)
 
 ## Feedback and reporting issues 
 This layout is still in early stages of development. Use Issue Tracker for this project to report issues and send suggestions. 
