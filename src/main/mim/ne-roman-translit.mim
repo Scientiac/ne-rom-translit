@@ -1,6 +1,6 @@
 ;; ne-roman-translit.mim -- Nepali input method with roman transliteration
 ;; keymapping
-;; Creative commons (CC) 2021 sapradhan
+;; Creative commons (CC) 2013 Santosh Pradhan
 
 ;; This file is part of the m17n database; a sub-part of the m17n
 ;; library.
